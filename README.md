@@ -1,4 +1,4 @@
-¡Hola! 👋
+# **¡Hola!** 👋
 Soy Juan, y me apasiona la tecnología y el desarrollo de software. Me encanta aprender cosas nuevas y compartir mi conocimiento con la comunidad.
 
 🎓 Estudié FullStack developer en el bootcamp de Henry.
