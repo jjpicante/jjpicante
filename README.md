@@ -3,7 +3,7 @@ Soy Juan, y me apasiona la tecnología y el desarrollo de software. Me encanta a
 
 🎓 Estudié FullStack developer en el bootcamp de Henry.
 
-##**Sobre mi**
+# **Sobre mi**
 
 Siempre he estado fascinado por la tecnología. Ya sea en videojuegos o en dispositivos electrónicos, siempre he estado intrigado por cómo funcionan y cómo se pueden utilizar para mejorar la vida cotidiana de las personas.
 Hace casi un año, decidí que mi futuro estaba en la tecnología y me inscribí en un bootcamp de programación. Durante mi formación, me dediqué por completo a aprender todo lo que pude sobre el desarrollo de software y la programación. Al mismo tiempo, seguía trabajando como preparador físico en un club, ayudando a los jóvenes a desarrollar sus habilidades deportivas y a mantenerse en forma.
