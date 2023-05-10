@@ -35,13 +35,21 @@ La idea general es una plataforma donde las instituciones educativas tengan un e
 
 Podés acceder al deploy del proyecto con el link en el repositorio.
 
+
 Tecnologías utilizadas
+
 HTML
+
 CSS
+
 Javascript
+
 Node JS
+
 React-Redux
+
 Sequelize
+
 SQL - PosgreSQL
 
 
