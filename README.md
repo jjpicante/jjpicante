@@ -56,5 +56,5 @@ Sequelize
 
 SQL - PosgreSQL
 
-
+<hr/>
 ¡Gracias por visitar mi perfil! Me encantaría colaborar en algún proyecto interesante o simplemente charlar sobre tecnología. ¡No dudes en contactarme! 👋👋
