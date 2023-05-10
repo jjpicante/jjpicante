@@ -12,9 +12,9 @@ Hace casi un año, decidí que mi futuro estaba en la tecnología y me inscribí
 💼 Hoy en día trabajo como preparador físico, aunque me encataría poder hacerlo en el rubro IT.
 
 # **📫 Cómo contactarme:**
--Podes enviarme un email a jjfiorovic@gmail.com    
--Tambien me encontras en el siguiente link de Linkedin:
-https://www.linkedin.com/in/juan-jos%C3%A9-fiorovic-926353b7/
+Email: jjfiorovic@gmail.com<br />
+Linkedin: https://www.linkedin.com/in/juan-jos%C3%A9-fiorovic-926353b7/<br />
+Celular: +54 3446 408454<br />
 
 .
 # **Proyectos**
