@@ -17,7 +17,7 @@ Hace casi un año, decidí que mi futuro estaba en la tecnología y me inscribí
 https://www.linkedin.com/in/juan-jos%C3%A9-fiorovic-926353b7/
 
 .
-Proyectos
+# **Proyectos**
 
 🛸 Rick and Morty -
 Es un proyecto relizado durante la cursada de forma guiada al mismo tiempo que aprendía los conocimientos de las diferentes tecnologías.
