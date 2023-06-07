@@ -8,10 +8,13 @@ Soy Juan, y me apasiona la tecnología y el desarrollo de software. Me encanta a
 Siempre he estado fascinado por la tecnología. Ya sea en videojuegos o en dispositivos electrónicos, intrigado por cómo funcionan y cómo se pueden utilizar para mejorar la vida cotidiana de las personas.
 Hace casi un año, decidí que mi futuro estaba en la tecnología y me inscribí en un bootcamp de programación. Durante mi formación, me dediqué por completo a aprender todo lo que pude sobre el desarrollo de software y la programación. Al mismo tiempo, seguía trabajando como preparador físico en un club, ayudando a los jóvenes a desarrollar sus habilidades deportivas y a mantenerse en forma.
 
+Creo firmemente que la empatía es lo primero en cualquier entorno de trabajo. El trabajo en equipo y la disposición a aprender continuamente son fundamentales para desarrollarnos tanto como personas como profesionales. Además, entiendo que la comunicación es el primer camino para conseguir un buen ambiente grupal
 
 💼 Hoy en día trabajo como preparador físico, aunque me encataría poder hacerlo en el rubro IT.
 
 # **📫 Cómo contactarme:**
+
+Portfolio: https://portfolio-ruby-seven-52.vercel.app/
 
 Email: jjfiorovic@gmail.com<br />
 
