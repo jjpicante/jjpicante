@@ -36,6 +36,10 @@ Podés forkearlo y verlo de manera local.
 Primer proyecto formal dentro del curso de Henry, me toco la temática de food con la api "Spoonacular".
 Fue una linda experiencia y terminé muy conforme con el resultado. Destaco el aprendizaje a la hora de aplicar las tecnologías aplicadas en el bootcamp.
 
+**Tabata timer - Solo frontend**
+<br />
+Proyecto personal realizado solo con React y Redux que permite utilizar un reloj para hacer ejercicio, calculando tiempos de trabajo y descanso. Se puede agregar el nombre de cada ejercicio y tambien incrustar un video de youtube para que se reproduzca y así poder escuchar música.
+
 
 **🧑‍🏫 Proyecto final - Plataforma Educativa**
 <br />
