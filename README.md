@@ -59,6 +59,8 @@ Node JS
 
 React-Redux
 
+Express JS
+
 Sequelize
 
 SQL - PosgreSQL
