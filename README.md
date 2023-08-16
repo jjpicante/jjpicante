@@ -57,6 +57,8 @@ Javascript
 
 Node JS
 
+Python
+
 React-Redux
 
 Express JS
