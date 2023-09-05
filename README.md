@@ -63,6 +63,8 @@ Firebase
 
 React-Redux
 
+React Native
+
 Express JS
 
 Sequelize
