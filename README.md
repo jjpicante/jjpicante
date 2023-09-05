@@ -59,6 +59,8 @@ Node JS
 
 Python
 
+Firebase
+
 React-Redux
 
 Express JS
