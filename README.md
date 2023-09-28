@@ -61,7 +61,9 @@ Python
 
 Firebase
 
-React-Redux
+React
+
+Redux
 
 React Native
 
