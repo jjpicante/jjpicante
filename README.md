@@ -20,7 +20,7 @@ Email: jjfiorovic@gmail.com<br />
 
 Linkedin: https://www.linkedin.com/in/juan-jos%C3%A9-fiorovic-926353b7/<br />
 
-Celular: +54 3446 408454<br />
+Celular: +549 3446 408454<br />
 
 # **Proyectos**
 
