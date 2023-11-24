@@ -10,8 +10,6 @@ Hace casi un año, decidí que mi futuro estaba en la tecnología y me inscribí
 
 Creo firmemente que la empatía es lo primero en cualquier entorno de trabajo. El trabajo en equipo y la disposición a aprender continuamente son fundamentales para desarrollarnos tanto como personas como profesionales. Además, entiendo que la comunicación es el primer camino para conseguir un buen ambiente grupal
 
-💼 Hoy en día trabajo como preparador físico, aunque me encataría poder hacerlo en el rubro IT.
-
 # **📫 Cómo contactarme:**
 
 Portfolio: https://portfolio-ruby-seven-52.vercel.app/
