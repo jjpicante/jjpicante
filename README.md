@@ -20,6 +20,15 @@ Linkedin: https://www.linkedin.com/in/juan-jos%C3%A9-fiorovic-926353b7/<br />
 
 Celular: +549 3446 408454<br />
 
+# **Experiencia**
+
+**🧑‍🏫 Angel**
+<br />
+ Actualmente, tengo la oportunidad de sumergirme en el mundo del desarrollo de aplicaciones trabajando en un proyecto desafiante, formo parte del equipo de desarrollo de una aplicación similar a Uber o Cabify, llamada Angel. Esta experiencia me permite profundizar mis conocimientos y habilidades en tecnologías como React Native, NodeJS, PostgreSQL, Google Cloud, Stripe, entre otras.
+
+Trabajar en un equipo distribuido, con colegas en otras partes del mundo, es una experiencia enriquecedora que me permite perfeccionar mis habilidades de colaboración y comunicación. Estoy comprometido a seguir creciendo como profesional en este campo y estoy abierto a nuevas oportunidades que me desafíen y me permitan seguir aprendiendo y creciendo.
+
+
 # **Proyectos**
 
 **🛸 Rick and Morty** 
@@ -43,13 +52,6 @@ Proyecto personal realizado solo con React y Redux que permite utilizar un reloj
 <br />
 Este proyecto lo realizamos en grupo (6 personas) mediante la metodología de SCRUM durante 3 semanas, teniamos daylis y weeklys con nuestro Srum Master y Product Owner.
 La idea general es una plataforma donde las instituciones educativas tengan un espacio que sirva tanto a alumnos y profesores a organizarse mediante un aula virtual.
-
-**🧑‍🏫 Angel**
-<br />
- Actualmente, tengo la oportunidad de sumergirme en el mundo del desarrollo de aplicaciones trabajando en un proyecto desafiante, formo parte del equipo de desarrollo de una aplicación similar a Uber o Cabify, llamada Angel. Esta experiencia me permite profundizar mis conocimientos y habilidades en tecnologías como React Native, NodeJS, PostgreSQL, Google Cloud, Stripe, entre otras.
-
-Trabajar en un equipo distribuido, con colegas en otras partes del mundo, es una experiencia enriquecedora que me permite perfeccionar mis habilidades de colaboración y comunicación. Estoy comprometido a seguir creciendo como profesional en este campo y estoy abierto a nuevas oportunidades que me desafíen y me permitan seguir aprendiendo y creciendo.
-
 
 # **Tecnologías utilizadas**
 
