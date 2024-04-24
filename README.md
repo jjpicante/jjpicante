@@ -22,7 +22,7 @@ Celular: +549 3446 408454<br />
 
 # **Experiencia**
 
-**🧑‍🏫 Angel**
+**Angel Mobility**
 <br />
  Actualmente, tengo la oportunidad de sumergirme en el mundo del desarrollo de aplicaciones trabajando en un proyecto desafiante, formo parte del equipo de desarrollo de una aplicación similar a Uber o Cabify, llamada Angel. Esta experiencia me permite profundizar mis conocimientos y habilidades en tecnologías como React Native, NodeJS, PostgreSQL, Google Cloud, Stripe, entre otras.
 
