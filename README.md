@@ -44,7 +44,7 @@ Proyecto personal realizado solo con React y Redux que permite utilizar un reloj
 Este proyecto lo realizamos en grupo (6 personas) mediante la metodología de SCRUM durante 3 semanas, teniamos daylis y weeklys con nuestro Srum Master y Product Owner.
 La idea general es una plataforma donde las instituciones educativas tengan un espacio que sirva tanto a alumnos y profesores a organizarse mediante un aula virtual.
 
-**🧑‍🏫 Angel **
+**🧑‍🏫 Angel**
 <br />
  Actualmente, tengo la oportunidad de sumergirme en el mundo del desarrollo de aplicaciones trabajando en un proyecto desafiante, formo parte del equipo de desarrollo de una aplicación similar a Uber o Cabify, llamada Angel. Esta experiencia me permite profundizar mis conocimientos y habilidades en tecnologías como React Native, NodeJS, PostgreSQL, Google Cloud, Stripe, entre otras.
 
