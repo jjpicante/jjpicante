@@ -5,10 +5,15 @@ Soy Juan, y me apasiona la tecnología y el desarrollo de software. Me encanta a
 
 # **Sobre mi**
 
-Siempre he estado fascinado por la tecnología. Ya sea en videojuegos o en dispositivos electrónicos, intrigado por cómo funcionan y cómo se pueden utilizar para mejorar la vida cotidiana de las personas.
-Hace casi un año, decidí que mi futuro estaba en la tecnología y me inscribí en un bootcamp de programación. Durante mi formación, me dediqué por completo a aprender todo lo que pude sobre el desarrollo de software y la programación. Al mismo tiempo, seguía trabajando como preparador físico en un club, ayudando a los jóvenes a desarrollar sus habilidades deportivas y a mantenerse en forma.
+¡Hola! 👋 Soy Juan, un Full Stack Developer originario de Gualeguaychú, Entre Rios, Argentina 🇦🇷, con un año de experiencia en el campo de la programación.
 
-Creo firmemente que la empatía es lo primero en cualquier entorno de trabajo. El trabajo en equipo y la disposición a aprender continuamente son fundamentales para desarrollarnos tanto como personas como profesionales. Además, entiendo que la comunicación es el primer camino para conseguir un buen ambiente grupal
+ Actualmente, tengo la oportunidad de sumergirme en el mundo del desarrollo de aplicaciones trabajando en un proyecto desafiante, formo parte del equipo de desarrollo de una aplicación similar a Uber o Cabify, llamada Angel. Esta experiencia me permite profundizar mis conocimientos y habilidades en tecnologías como React Native, NodeJS, PostgreSQL, Google Cloud, Stripe, entre otras.
+
+Trabajar en un equipo distribuido, con colegas en otras partes del mundo, es una experiencia enriquecedora que me permite perfeccionar mis habilidades de colaboración y comunicación. Estoy comprometido a seguir creciendo como profesional en este campo y estoy abierto a nuevas oportunidades que me desafíen y me permitan seguir aprendiendo y creciendo.
+
+Si estás buscando a alguien con experiencia en desarrollo de aplicaciones móviles o web y en la implementación de microservicios, no dudes en contactarme. Estoy listo para enfrentar nuevos desafíos y contribuir al éxito de tu equipo.
+
+Gracias por visitar mi perfil y considerar mi experiencia como posible activo para tu equipo.
 
 # **📫 Cómo contactarme:**
 
