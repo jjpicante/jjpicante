@@ -5,9 +5,9 @@ Soy Juan, y me apasiona la tecnología y el desarrollo de software. Me encanta a
 
 # **Sobre mi**
 
-¡Hola! 👋 Soy Juan, un Full Stack Developer originario de Gualeguaychú, Entre Rios, Argentina 🇦🇷, con un año de experiencia en el campo de la programación.
+¡Hola! 👋 Soy Juan, un Full Stack Developer originario de Gualeguaychú, Entre Rios, Argentina 🇦🇷, con experiencia en el campo de la programación.
 
- Actualmente, tengo la oportunidad de sumergirme en el mundo del desarrollo de aplicaciones trabajando en un proyecto desafiante, formo parte del equipo de desarrollo de una aplicación similar a Uber o Cabify, llamada Angel. Esta experiencia me permite profundizar mis conocimientos y habilidades en tecnologías como React Native, NodeJS, PostgreSQL, Google Cloud, Stripe, entre otras.
+ Actualmente, tengo la oportunidad de sumergirme en el mundo del desarrollo de aplicaciones trabajando en un proyecto desafiante, formo parte del equipo de desarrollo de una aplicación similar a Uber o Cabify, llamada Angel. Esta experiencia me permite profundizar mis conocimientos y habilidades en tecnologías como React Native, NodeJS, PostgreSQL, Google Cloud, Stripe, plataforma CI/CD de Apple entre otras.
 
 Trabajar en un equipo distribuido, con colegas en otras partes del mundo, es una experiencia enriquecedora que me permite perfeccionar mis habilidades de colaboración y comunicación. Estoy comprometido a seguir creciendo como profesional en este campo y estoy abierto a nuevas oportunidades que me desafíen y me permitan seguir aprendiendo y creciendo.
 
