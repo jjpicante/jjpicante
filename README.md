@@ -1,86 +1,83 @@
-# **¡Hola!** 👋
-Soy Juan, y me apasiona la tecnología y el desarrollo de software. Me encanta aprender cosas nuevas y compartir mi conocimiento con la comunidad.
+# **¡Hola!** 👋  
 
-# **Sobre mi**
+Soy **Juan José Fiorovic**, un desarrollador Full Stack especializado en **React, React Native y Node.js**. Me encanta construir aplicaciones funcionales y escalables, además de aprender y compartir conocimiento con la comunidad.  
 
-¡Hola! 👋 Soy Juan, un Full Stack Developer originario de Gualeguaychú, Entre Rios, Argentina 🇦🇷, con experiencia en el campo de la programación.
+---
 
- Actualmente, tengo la oportunidad de sumergirme en el mundo del desarrollo de aplicaciones trabajando en un proyecto desafiante, formo parte del equipo de desarrollo de una aplicación similar a Uber o Cabify, llamada Angel. Esta experiencia me permite profundizar mis conocimientos y habilidades en tecnologías como React Native, NodeJS, PostgreSQL, Google Cloud, Stripe, plataforma CI/CD de Apple entre otras.
+## **📌 Sobre mí**  
 
-Trabajar en un equipo distribuido, con colegas en otras partes del mundo, es una experiencia enriquecedora que me permite perfeccionar mis habilidades de colaboración y comunicación. Estoy comprometido a seguir creciendo como profesional en este campo y estoy abierto a nuevas oportunidades que me desafíen y me permitan seguir aprendiendo y creciendo.
+Soy un desarrollador Full Stack con experiencia en **desarrollo de aplicaciones móviles y web**. Actualmente, formo parte del equipo de desarrollo de **Angel Mobility**, un proyecto similar a Uber o Cabify, donde me encargo del desarrollo tanto del backend como del frontend.  
 
-Si estás buscando a alguien con experiencia en desarrollo de aplicaciones móviles o web y en la implementación de microservicios, no dudes en contactarme. Estoy listo para enfrentar nuevos desafíos y contribuir al éxito de tu equipo.
+💡 **Tecnologías principales:**  
+- **Frontend:** React Native, Expo, React, Redux  
+- **Backend:** Node.js, Express, PostgreSQL, Sequelize  
+- **Infraestructura:** Google Cloud, AWS, Render  
+- **Pagos & CI/CD:** Stripe, Apple CI/CD  
 
-Gracias por visitar mi perfil y considerar mi experiencia como posible activo para tu equipo.
+Mi trabajo en **Angel Mobility** me ha permitido mejorar mis habilidades en arquitectura de software, comunicación en equipos distribuidos y desarrollo de **APIs REST**.  
 
-# **📫 Cómo contactarme:**
+Siempre estoy buscando nuevos desafíos donde pueda aplicar mis conocimientos y seguir aprendiendo. 🚀  
 
-Portfolio: https://portfolio-ruby-seven-52.vercel.app/
+---
 
-Email: jjfiorovic@gmail.com<br />
+## **📫 Cómo contactarme**  
 
-Linkedin: https://www.linkedin.com/in/juan-jos%C3%A9-fiorovic-926353b7/<br />
+📌 **Portfolio:** [Mi portfolio](https://portfolio-ruby-seven-52.vercel.app/)  
+📌 **Email:** jjfiorovic@gmail.com  
+📌 **LinkedIn:** [Juan José Fiorovic](https://www.linkedin.com/in/juan-jos%C3%A9-fiorovic-926353b7/)  
+📌 **Teléfono:** +549 3446 408454  
 
-Celular: +549 3446 408454<br />
+---
 
-# **Experiencia**
+## **🛠️ Experiencia**  
 
-**Angel Mobility**
-<br />
- Actualmente, tengo la oportunidad de sumergirme en el mundo del desarrollo de aplicaciones trabajando en un proyecto desafiante, formo parte del equipo de desarrollo de una aplicación similar a Uber o Cabify, llamada Angel. Esta experiencia me permite profundizar mis conocimientos y habilidades en tecnologías como React Native, NodeJS, PostgreSQL, Google Cloud, Stripe, entre otras.
+### **Angel Mobility (2023 - Actualidad)**  
+Desarrollador Full Stack en una plataforma de movilidad similar a Uber. Me encargo de:  
+- Desarrollo y mantenimiento de la **API REST** con **Node.js, Express y PostgreSQL**.  
+- Creación y optimización de las apps **Angel y Angel Driver** con **React Native y Expo**.  
+- Integración de **pasarelas de pago con Stripe**.  
+- Implementación de WebSockets para comunicación en tiempo real entre usuarios y conductores.  
+- Despliegue y gestión en **Render y Google Cloud**.  
 
-Trabajar en un equipo distribuido, con colegas en otras partes del mundo, es una experiencia enriquecedora que me permite perfeccionar mis habilidades de colaboración y comunicación. Estoy comprometido a seguir creciendo como profesional en este campo y estoy abierto a nuevas oportunidades que me desafíen y me permitan seguir aprendiendo y creciendo.
+### **Proyectos Freelance**  
+- Desarrollo de **SPAs con React.js** para clientes.  
+- Creación de una plataforma para **generación de recibos de alquileres** para una inmobiliaria.  
 
+---
 
-# **Proyectos**
+## **📌 Proyectos destacados**  
 
-**🛸 Rick and Morty** 
-<br />
-Es un proyecto relizado durante la cursada de forma guiada al mismo tiempo que aprendía los conocimientos de las diferentes tecnologías.
+### **🚗 Angel & Angel Driver**  
+📌 *React Native, Node.js, PostgreSQL*  
+Aplicación de movilidad que permite a los usuarios contratar conductores para manejar su propio auto.  
 
-Podés forkearlo y verlo de manera local.
+### **📜 Plataforma de Gestión de Recibos**  
+📌 *React, Node.js, PostgreSQL*  
+Aplicación web que facilita la emisión de recibos para pagos de alquiler y retiros de propietarios.  
 
+### **🕹️ Nave Esquiva**  
+📌 *Python, Pygame*  
+Juego desarrollado en Python donde una nave esquiva asteroides en un entorno dinámico.  
 
-**🍕 Proyecto individual - Temática: Food**
-<br />
-Primer proyecto formal dentro del curso de Henry, me toco la temática de food con la api "Spoonacular".
-Fue una linda experiencia y terminé muy conforme con el resultado. Destaco el aprendizaje a la hora de aplicar las tecnologías aplicadas en el bootcamp.
+### **🍕 Food App**  
+📌 *React, Redux, Node.js, PostgreSQL*  
+Aplicación que consume la API de **Spoonacular** para gestionar recetas y platos.  
 
-**Tabata timer - Solo frontend**
-<br />
-Proyecto personal realizado solo con React y Redux que permite utilizar un reloj para hacer ejercicio, calculando tiempos de trabajo y descanso. Se puede agregar el nombre de cada ejercicio y tambien incrustar un video de youtube para que se reproduzca y así poder escuchar música.
+### **⏳ Tabata Timer**  
+📌 *React, Redux*  
+Reloj para entrenamientos HIIT que permite personalizar ejercicios y tiempos de trabajo/descanso.  
 
+---
 
-**🧑‍🏫 Proyecto final - Plataforma Educativa**
-<br />
-Este proyecto lo realizamos en grupo (6 personas) mediante la metodología de SCRUM durante 3 semanas, teniamos daylis y weeklys con nuestro Srum Master y Product Owner.
-La idea general es una plataforma donde las instituciones educativas tengan un espacio que sirva tanto a alumnos y profesores a organizarse mediante un aula virtual.
+## **💻 Tecnologías que utilizo**  
 
-# **Tecnologías utilizadas**
+✅ **Frontend:** React, React Native, Redux, Expo  
+✅ **Backend:** Node.js, Express, PostgreSQL, Sequelize  
+✅ **Infraestructura:** AWS, Google Cloud, Render  
+✅ **Otros:** WebSockets, Stripe, Firebase, CI/CD  
 
-HTML
+---
 
-CSS
+¡Gracias por visitar mi perfil! Estoy abierto a nuevas oportunidades y colaboraciones.  
+**Si te interesa trabajar juntos, no dudes en contactarme.** 🚀  
 
-Javascript
-
-Node JS
-
-Python
-
-Firebase
-
-React
-
-Redux
-
-React Native
-
-Express JS
-
-Sequelize
-
-SQL - PostgreSQL
-
-<hr/>
-¡Gracias por visitar mi perfil! Me encantaría colaborar en algún proyecto interesante o simplemente charlar sobre tecnología. ¡No dudes en contactarme! 👋👋
