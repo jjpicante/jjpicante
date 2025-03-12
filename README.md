@@ -1,8 +1,6 @@
 # **¡Hola!** 👋
 Soy Juan, y me apasiona la tecnología y el desarrollo de software. Me encanta aprender cosas nuevas y compartir mi conocimiento con la comunidad.
 
-🎓 Estudié FullStack developer en el bootcamp de Henry. +700 horas de cursada teórico-práctica.
-
 # **Sobre mi**
 
 ¡Hola! 👋 Soy Juan, un Full Stack Developer originario de Gualeguaychú, Entre Rios, Argentina 🇦🇷, con experiencia en el campo de la programación.
