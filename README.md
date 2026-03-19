@@ -1,19 +1,21 @@
 ## Full Stack Developer — React · Node.js · PostgreSQL · AWS
 
-Construyo productos digitales end-to-end, desde la arquitectura hasta el despliegue en producción. Especializado en entornos SaaS y aplicaciones mobile con React Native, con foco en escalabilidad, rendimiento y valor de negocio.
+I build digital products end-to-end, from architecture to production deployment.
+
+Specialized in SaaS environments and mobile applications with React Native, focused on scalability, performance and business value.
 
 ---
 
-### Experiencia
+### Experience / Experiencia
 
-**QIP SRL** — Full Stack Developer *(2025 - Actualidad)*
-Desarrollo de productos SaaS con integración de inteligencia artificial. Participé en la construcción de AdsBot (automatización de campañas publicitarias) e Itsaloop (planificador de viajes con IA), cubriendo frontend, integración de APIs externas y definición de arquitectura.
+**QIP SRL** — Full Stack Developer *(2025 - Present / Actualidad)*
+Developed SaaS products with AI integration. Built AdsBot (ad campaign automation) and Itsaloop (AI travel planner), covering frontend development, external API integration and architecture definition.
 
-**Freelance** — Full Stack Developer *(2023 - Actualidad)*
-Diseño y desarrollo de productos propios llevados a producción: un SaaS de administración de alquileres y un sistema de gestión inmobiliaria. Backend desplegado en AWS.
+**Freelance** — Full Stack Developer *(2023 - Present / Actualidad)*
+Designed and developed own products taken to production: a rental management SaaS and a real estate management system. Backend deployed on AWS.
 
 **Angel Drive Official** — Full Stack Developer *(2023 - 2025)*
-Desarrollo de una plataforma de movilidad con dos aplicaciones (usuarios y conductores) usando React Native, Node.js y PostgreSQL. Publicadas en App Store y Google Play Store.
+Built a mobility platform with two applications (users and drivers) using React Native, Node.js and PostgreSQL. Published on App Store and Google Play Store.
 
 ---
 
@@ -21,12 +23,12 @@ Desarrollo de una plataforma de movilidad con dos aplicaciones (usuarios y condu
 
 **Frontend:** React, React Native, TypeScript, Redux, Vite  
 **Backend:** Node.js, Express, REST APIs, WebSockets  
-**Bases de datos:** PostgreSQL, MySQL, Firebase  
+**Databases:** PostgreSQL, MySQL, Firebase  
 **Cloud & DevOps:** AWS, Docker, Google Cloud, CI/CD  
-**Herramientas:** Git, GitHub, Notion
+**Tools:** Git, GitHub, Notion
 
 ---
 
-### Contacto
+### Contact 
 
 [LinkedIn](https://www.linkedin.com/in/juanfiorovic/) · [jjfiorovic@gmail.com](mailto:jjfiorovic@gmail.com) · +54 9 3446-408454
